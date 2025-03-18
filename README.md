@@ -17,18 +17,5 @@ Sistema de controle e gerenciamento de execução de ordens de serviço em uma o
 - O cliente autoriza a execução dos serviços.  
 - A mesma equipe avalia e executa os serviços.  
 
-### Informações sobre os mecânicos  
-- Código  
-- Nome  
-- Endereço  
-- Especialidade  
-
-### Informações sobre a Ordem de Serviço (OS)  
-- Número  
-- Data de emissão  
-- Valor  
-- Status  
-- Data para conclusão dos trabalhos  
-
 ## Modelo Conceitual  
 O repositório contém o **Modelo Conceitual completo**, criado por mim, disponível para análise.  
